@@ -1,0 +1,25 @@
+[
+  {
+    "nome": "Université de Paris",
+    "nazione": "Francia",
+    "città": "Parigi",
+    "latitudine": 48.8566,
+    "longitudine": 2.3522,
+    "calendario": "15 settembre – 20 gennaio",
+    "corsi": [
+      "Economia Internazionale",
+      "Letteratura Francese"
+    ],
+    "documenti": [
+      "Transcript of Records",
+      "Lettera Motivazionale",
+      "Certificato B2"
+    ],
+    "alloggio": "Supporto presente, circa €600/mese",
+    "contatti": {
+      "email": "erasmus@univ-paris.fr",
+      "telefono": "+33 1 44 07 89 00"
+    },
+    "factsheet_url": "https://univ-paris.fr/factsheet.pdf"
+  }
+]
